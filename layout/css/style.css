@@ -1,0 +1,21 @@
+/* navbar */
+.navbarMe {
+    background-color: #fff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.containerME {
+    margin: 0 36px !important;
+}
+
+.logo {
+    height: 40px;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 55px;
+}
+
+.logoImg{
+    width: 100%;
+    height: 100%;
+}
