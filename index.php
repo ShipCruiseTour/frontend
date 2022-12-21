@@ -50,7 +50,7 @@ include 'include/header.php' ?>
 </div>
 <a href="place.php" class="btn btnMe btnMe2">VIEW MORE</a>
 
-<svg style="margin: 0 88px;" width="1342" height="756" viewBox="0 0 1342 756" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg style="padding: 0 5%;" width="1342" height="756" viewBox="0 0 1342 756" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="1342" height="756" fill="url(#pattern0)"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
