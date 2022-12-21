@@ -1,38 +1,36 @@
     <?php if(!isset($noFooter)){ ?>
         <footer class="navbar-light bg-light">
         <div class="logo_footer navbar-brand">
-            <a href="home.php">
-                <img src="layout/image/playtech-logo.png" alt="Playtech_logo">
+            <a href="index.php">
+                <img src="layout/images/ShipCruiseTour.png" alt="logo">
             </a>
         </div>
         <div class="grid_footer">
             <div class="grid_items">
                 <div class="title_grid_items">
-                    ABOUT US
+                    A PROPOS DE NOUS
                 </div>
                 <div class="desc_grid_items">
-                    <pre>Playtech is a market 
-leader in the gambling 
-and financial trading 
-industries. We are the 
-world's largest online 
-gambling software supplier 
-offering cutting-edge ...
-                    </pre>
+                    <pre>Lorem ipsum dolor sit amet 
+consectetur adipisicing elit. 
+Expedita velit animi modi 
+veritatis. Dicta accusamus 
+consequatur quaerat fuga eius 
+alias ratione a molestias esse, 
+quos labore architecto beatae 
+quasi sapiente explicabo ab 
+veritatis atque odit ut.</pre>
                 </div>
             </div>
             <div class="grid_items">
                 <div class="title_grid_items">
-                    OUR ITEMS
+                NOS MEILLEURES VOYAGES
                 </div>
                 <div class="desc_grid_items">
-                    <pre>¤ Games Tools 
-¤ Remote Controls
-¤ Keyboards
-¤ PC Gamer
-¤ DVD Of Games
-¤ Gamer Mouse         
-                    </pre>
+                    <pre>¤ Hawaï
+¤ Maldives
+¤ Canary
+¤ Amazon</pre>
                 </div>
             </div>
             <div class="grid_items">
@@ -42,9 +40,7 @@ offering cutting-edge ...
                 <div class="desc_grid_items">
                     <pre>FAQ
 Policy
-Business
-                    
-                    </pre>
+Business</pre>
                 </div>
             </div>
             <div class="grid_items">

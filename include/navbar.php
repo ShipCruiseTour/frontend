@@ -12,15 +12,19 @@
         <a class="nav-link active" href="contact.php">Contact Us</a>
       </div>
       <div class="navbar-nav ms-auto ulMe">
-        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-          Dropdown
+        <a class="nav-link dropdown-toggle aliMe" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <i class="fa fa-user"></i>
         </a>
         <ul class="dropdown-menu dropMe">
-          <li><a class="dropdown-item" href="#">Action</a></li>
+          <?php if(isset($_SESSION['user_id'])): ?>
+            <li><a class="dropdown-item aliMe" href="reservationCle.php">Vos Reservation</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item aliMe" href="logout.php">Logout</a></li>
+            <?php else: ?>
+          <li><a class="dropdown-item aliMe" href="login.php">Login</a></li>
           <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="#">Another</a></li>
-          <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="#">Something</a></li>
+          <li><a class="dropdown-item aliMe" href="signup.php">Signup</a></li>
+          <?php endif; ?>
         </ul>
       </div>
     </div>
