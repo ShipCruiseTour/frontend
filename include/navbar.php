@@ -11,7 +11,7 @@
         <a class="nav-link active" href="place.php">My place<b></b></a>
         <a class="nav-link active" href="contact.php">Contact Us</a>
       </div>
-      <div class="navbar-nav ms-auto ulMe">
+      <div style="margin-left: 0px !important;" class="navbar-nav ms-auto ulMe">
         <a class="nav-link dropdown-toggle aliMe" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           <i class="fa fa-user"></i>
         </a>

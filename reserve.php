@@ -10,7 +10,9 @@
         <input type="numero" required="required" name="nombre">
         <label for="date">Date de Reservation</label>
         <input type="date" required="required" name="date">
-        <input type="submit" class="btn btnMe btnMe2 btnMe3" name="reserver" value="RESERVER">
+        <div class="inputReserve">
+            <input type="submit" class="btn btnMe btnMe2 btnMe3" name="reserver" value="RESERVER">
+        </div>
     </form>
 </div>
 

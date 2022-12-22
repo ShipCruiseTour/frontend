@@ -19,9 +19,10 @@ include 'include/header.php' ?>
     </svg>
 </h2>
 <div class="croisieres">
-    <div class="card" style="width: 13rem;">
+        <div class="card" style="width: 13rem;">
         <img src="layout/images/hawai.jpg" class="card-img-top" alt="...">
         <div class="card-body">
+            <h5 style="color: black;" class="card-title">hawai</h5>
             <a href="view.php" class="btn btnMe">VIEW</a>
             <a href="reserve.php" class="btn btnMe">RESERVE</a>
         </div>
@@ -29,6 +30,7 @@ include 'include/header.php' ?>
     <div class="card" style="width: 13rem;">
         <img src="layout/images/maldive.jpg" class="card-img-top" alt="...">
         <div class="card-body">
+            <h5 style="color: black;" class="card-title">maldive</h5>
             <a href="view.php" class="btn btnMe">VIEW</a>
             <a href="reserve.php" class="btn btnMe">RESERVE</a>
         </div>
@@ -36,6 +38,7 @@ include 'include/header.php' ?>
     <div class="card" style="width: 13rem;">
         <img src="layout/images/canary.jpg" class="card-img-top" alt="...">
         <div class="card-body">
+            <h5 style="color: black;" class="card-title">canary</h5>
             <a href="view.php" class="btn btnMe">VIEW</a>
             <a href="reserve.php" class="btn btnMe">RESERVE</a>
         </div>
@@ -43,6 +46,7 @@ include 'include/header.php' ?>
     <div class="card" style="width: 13rem;">
         <img src="layout/images/amazon.jpg" class="card-img-top" alt="...">
         <div class="card-body">
+            <h5 style="color: black;" class="card-title">amazon</h5>
             <a href="view.php" class="btn btnMe">VIEW</a>
             <a href="reserve.php" class="btn btnMe">RESERVE</a>
         </div>

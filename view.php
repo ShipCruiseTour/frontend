@@ -14,6 +14,8 @@
         </div>
     </div>
 </div>
-<a class="btn btnMe btnMe2 btnMe3" href="reserve.php">RESERVER</a>
+<div class="inputReserve">
+    <a class="btn btnMe btnMe2 btnMe3" href="reserve.php">RESERVER</a>
+</div>
 
 <?php include 'include/footer.php' ?>
