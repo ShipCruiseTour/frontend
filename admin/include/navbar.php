@@ -22,6 +22,7 @@
             <li><a class="dropdown-item aliMe" href="logout.php">Logout</a></li>
         </ul>
       </div>
+      
     </div>
   </div>
 </nav>

@@ -22,7 +22,7 @@
                 <td>2000dh</td>
                 <td>02/02/2022</td>
                 <td>
-                    <a href="croisiereDelete" class='btn btn-danger confirm'><i class='fa fa-close'></i> Delete </a>
+                    <a href="croisiereDelete.php" class='btn btn-danger confirm'><i class='fa fa-close'></i> Delete </a>
                 </td>
             </tr>
             <tr>
@@ -33,7 +33,7 @@
                 <td>2000dh</td>
                 <td>02/02/2022</td>
                 <td>
-                    <a href="croisiereDelete" class='btn btn-danger confirm'><i class='fa fa-close'></i> Delete </a>
+                    <a href="croisiereDelete.php" class='btn btn-danger confirm'><i class='fa fa-close'></i> Delete </a>
                 </td>
             </tr>
             <tr>
@@ -51,7 +51,7 @@
         </table>
     </div>
     <a href="croisiereAdd.php" class="btn btn-sm btn-primary">
-        <i class="fa fa-plus"></i> New Item
+        <i class="fa fa-plus"></i> New Croisiere
     </a>
 </div>
 
